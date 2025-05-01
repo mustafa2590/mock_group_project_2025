@@ -15,3 +15,6 @@ git push -u origin main
 git remote add origin https://github.com/mustafa2590/mock_group_project_2025.git
 git branch -M main
 git push -u origin main
+git checkout -b dev_branch // creating new branch
+git branch // checking which branch are you in
+git push origin dev_branch // all files to the branch dev_branch
