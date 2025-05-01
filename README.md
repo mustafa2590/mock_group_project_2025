@@ -18,3 +18,11 @@ git push -u origin main
 git checkout -b dev_branch // creating new branch
 git branch // checking which branch are you in
 git push origin dev_branch // all files to the branch dev_branch
+forking a repo: grab a copy, but you can't directly contribute
+
+cloning a repo: grab a copy, but you can directly contribute
+ git clone https://github.com/Ariella-Rollins/EZ-Shop.git
+  git push -u origin mz // push upstream git push -u origin will push on the branch you are already in
+  git merge dev_branch // merging to 
+  git pull 
+  
